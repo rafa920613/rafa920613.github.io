@@ -26,7 +26,7 @@ function draw() {
 }
 
 function mousePressed() {
-    choice = int(random(3));
+    choice = int(random(5));
 }
 
 function initializeFields() {
