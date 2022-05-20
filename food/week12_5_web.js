@@ -21,7 +21,8 @@ function draw() {
     text("中餐吃水餃", 50, 50);
     text("中餐吃uber eat", 50, 100);
     text("中餐吃food panda", 50, 150);
-    
+    text("中餐吃牛排"50,200);
+    text("中餐吃大餐",50,250);
 }
 
 function mousePressed() {
