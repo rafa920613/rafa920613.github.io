@@ -14,9 +14,14 @@ function draw() {
         rect(50, 100, 150, 2);
     if (choice == 2)
         rect(50, 150, 150, 2);
+      if (choice == 3)
+        rect(50, 200, 150, 2);
+    if (choice == 4)
+        rect(50, 250, 150, 2);
     text("中餐吃水餃", 50, 50);
     text("中餐吃uber eat", 50, 100);
     text("中餐吃food panda", 50, 150);
+    
 }
 
 function mousePressed() {
